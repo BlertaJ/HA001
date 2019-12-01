@@ -1,4 +1,4 @@
-## Detyre shtepie - HA001 ##
+﻿## Detyre shtepie - HA001 ##
 
 # Perdorimi i git vegles & (github.com) dhe krijimi i nje Java projekti me Gradle
 
@@ -13,4 +13,4 @@
 
 ### Verejtje: ###
 Per te vazhduar tutje, ju duhet keto vegla/aplikacione ti keni ne dispozicion.
-## edited ##
+## edited 2 ##
